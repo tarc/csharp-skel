@@ -12,7 +12,7 @@ Follow the instructions from the official website [Install Mono on Linux](http:/
 
 ### NuGet
 
-Download the latest Windows x86 Commandline version from http://dist.nuget.org/index.html
+Download the latest Windows x86 Commandline version from http://dist.nuget.org/index.html and save it in the root directory of this project.
 
 
 ## Clonning
