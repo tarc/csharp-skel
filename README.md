@@ -1,5 +1,12 @@
 This is a skeleton project of a simple C# hello world application together with CMake modules to carry on the the build and NuGet package management. This project features a library consumed by the main application.
 
+
+## Clonning
+
+    git clone https://github.com/tarc/csharp-skel.git &&\
+    cd csharp-skel
+
+
 ## Dependencies
 
 ### CMake
@@ -13,12 +20,6 @@ Follow the instructions from the official website [Install Mono on Linux](http:/
 ### NuGet
 
 Download the latest windows x86 commandline version from [the official website](http://dist.nuget.org/index.html) and save it in the root directory of this project.
-
-
-## Clonning
-
-    git clone https://github.com/tarc/csharp-skel.git &&\
-    cd csharp-skel
 
 
 ## Building 
