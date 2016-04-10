@@ -1,15 +1,14 @@
 using System;
 
+using Utils;
+
 namespace Client
 {
 	class Client
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Olá, mundo!");
-
-			Console.ReadKey();
+			Console.WriteLine(Utils.Utils.Hello());
 		}
 	}
-
 }

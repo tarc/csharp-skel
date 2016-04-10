@@ -6,4 +6,6 @@ find_package( CSharp REQUIRED )
 
 include( ${CSHARP_USE_FILE} )
 
-csharp_add_executable ( client ${CMAKE_CURRENT_SOURCE_DIR}/Client.cs )
+csharp_add_library ( utils ${CMAKE_CURRENT_SOURCE_DIR}/Utils.cs )
+
+csharp_add_executable ( client utils.dll ${CMAKE_CURRENT_SOURCE_DIR}/Client.cs )
