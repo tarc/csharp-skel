@@ -1,4 +1,4 @@
-This is a skeleton project of a hello world application together with CMake modules to carry on the the build and NuGet package management. This project features a simple library consumed by the main application.
+This is a skeleton project of a simple C# hello world application together with CMake modules to carry on the the build and NuGet package management. This project features a library consumed by the main application.
 
 ## Dependencies
 
