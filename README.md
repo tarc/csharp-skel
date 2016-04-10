@@ -1,5 +1,3 @@
-# csharp-skel
-
 This is a skeleton project of a simple hello world together with cmake modules to build csharp sources.
 
 
