@@ -4,7 +4,7 @@ This is a skeleton project of a simple C# hello world application together with 
 
 ### CMake
 
-The last release can be found in [CMake's official site](https://cmake.org/).
+The latest release can be found in [CMake's official site](https://cmake.org/).
 
 ### Mono
 
