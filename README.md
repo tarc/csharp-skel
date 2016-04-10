@@ -4,15 +4,15 @@ This is a skeleton project of a simple C# hello world application together with 
 
 ### CMake
 
-The last release can be found in https://cmake.org/
+The last release can be found in [CMake's official site](https://cmake.org/).
 
 ### Mono
 
-Follow the instructions from the official website [Install Mono on Linux](http://www.mono-project.com/docs/getting-started/install/linux/).
+Follow the instructions from the official website [Install Mono on Linux](http://www.mono-project.com/docs/getting-started/install/linux/) to get the latest release version running on a Linux machine.
 
 ### NuGet
 
-Download the latest Windows x86 Commandline version from http://dist.nuget.org/index.html and save it in the root directory of this project.
+Download the latest windows x86 commandline version from [the official website](http://dist.nuget.org/index.html) and save it in the root directory of this project.
 
 
 ## Clonning
