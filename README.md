@@ -1,10 +1,11 @@
 This is a skeleton project of a simple C# hello world application together with CMake modules to carry on the build and NuGet package management. This project features a library consumed by the main application.
 
+All CMake modules present in the [cmake-submodules](/cmake-submodules) directory are from the [SimpleITK project](https://github.com/SimpleITK/SimpleITK.git).
+
 
 ## Clonning
 
     git clone https://github.com/tarc/csharp-skel.git &&\
-    cd csharp-skel
 
 
 ## Dependencies
@@ -24,7 +25,8 @@ Download the latest windows x86 commandline version from [the official website](
 
 ## Building 
 
-    mkdir build &&\
-    cd build &&\
-    cmake .. &&\
-    make
+    cd csharp-skel
+    mkdir build
+    cd build
+    cmake ..
+    cmake --build .
