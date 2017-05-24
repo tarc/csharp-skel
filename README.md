@@ -1,4 +1,4 @@
-This is a skeleton project of a simple C# hello world application together with CMake modules to carry on the build and NuGet package management. This project features a library consumed by the main application.
+This is a skeleton project of a simple C# hello world application together with CMake modules to carry out the build and NuGet package management. This project features a library consumed by the main application.
 
 All CMake modules present in the [cmake-submodules](/cmake-submodules) directory are from the [SimpleITK project](https://github.com/SimpleITK/SimpleITK.git).
 
